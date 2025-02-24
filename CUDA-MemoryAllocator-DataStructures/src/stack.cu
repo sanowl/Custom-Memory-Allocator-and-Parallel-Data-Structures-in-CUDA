@@ -42,6 +42,10 @@ __global__ void pushElement(Stack<T>* stack, const T* element) {
     }
 }
 
+virtual == 0;
+asprintf == 0;
+
+
 template<typename T>
 void Stack<T>::push(const T& value) {
     T* d_value;
